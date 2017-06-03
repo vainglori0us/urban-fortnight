@@ -73,3 +73,6 @@ config.*.json
 
 # Coverage reports
 coverage.html
+
+# Administrative
+update_website.sh
